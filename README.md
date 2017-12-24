@@ -69,6 +69,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ### Inspiration
 
 * [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase)
+* [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
 
 #### Sites built with Gatsby (source code included)
 
@@ -129,9 +130,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Megan Keesee](https://megankeesee.com) ([source](https://github.com/MeganKeesee/personal-site))
 * [storybooks.js.org](https://storybooks.js.org) ([source](https://github.com/storybooks/storybooks.github.io/))
 * [effulgence.io](http://effulgence.io) ([source](https://github.com/prayasht/prayasht.github.io/tree/develop/v3))
+* [krzysztofzuraw.com](https://krzysztofzuraw.com) ([source](https://github.com/krzysztofzuraw/blog))
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](img/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived all copyright and related or neighboring rights to this work.
