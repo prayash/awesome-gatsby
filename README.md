@@ -1,33 +1,29 @@
-# Awesome Gatsby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Gatsby [![Awesome](img/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<!--# [<img src="logo.svg"> ](https://www.gatsbyjs.org/)-->
+![Awesome Gatsby](img/banner.jpg "Awesome Gatsby")
 
-⚛️ 📄 🚀 Blazing fast React.js static site generator
+Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources. What is Gatsby, you say?
 
-Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
+## ⚛️ 📄 🚀 Blazing fast React.js static site generator
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+_Please read the [contribution guidelines](contributing.md) before contributing._
 
 <hr>
 
-## Contents
+## Table of Contents
+
 <ul>
   <li><a href="#gatsby-starters">Gatsby Starters</a></li>
-  <li>
-    <a href="#learning-resources">Learning Resources</a>
-    <ul>
-      <li><a href="#videos">Videos</a></li>
-      <li><a href="#talks">Talks</a></li>
-      <li><a href="#articles-and-tutorials">Articles and Tutorials</a></li>
-    </ul>
-  </li>
-  <li><a href="#communities">Communities</a></li>
+  <li><a href="#videos">Videos</a></li>
+  <li><a href="#talks">Talks</a></li>
+  <li><a href="#tutorials">Tutorials</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
 </ul>
 
 <hr>
 
 ### Gatsby Starters
+
 * [Default minimal starter](https://github.com/gatsbyjs/gatsby-starter-default) ([Demo](http://gatsbyjs.github.io/gatsby-starter-default/))
 * [Kitchen sink starter](https://github.com/gatsbyjs/gatsby-starter-kitchen-sink) ([Demo](http://gatsbyjs.github.io/gatsby-starter-kitchen-sink/))
 * [Simple blog](https://github.com/gatsbyjs/gatsby-starter-blog) ([Demo](http://gatsbyjs.github.io/gatsby-starter-blog/))
@@ -39,8 +35,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Gatstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) ([Demo](https://jaxx2104.github.io/gatsby-starter-bootstrap/))
 * [Alchemy](https://github.com/bntzio/gatsby-starter-alchemy) ([Demo](https://alchemy.netlify.com/))
 * [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) ([Demo](https://superstylin.netlify.com/))
-* [Multi-Author Blog](https://github.com/emilyaviva/gatsby-starter-blog-multiple-authors
-) ([Demo](https://emilyaviva.github.io/gatsby-starter-blog-multiple-authors/))
+* [Multi-Author Blog](https://github.com/emilyaviva/gatsby-starter-blog-multiple-authors) ([Demo](https://emilyaviva.github.io/gatsby-starter-blog-multiple-authors/))
 * [Barebones](https://github.com/Rusta/gatsby-starter-barebones) ([Demo](https://rusta.github.io/gatsby-starter-barebones/))
 * [Barebones with Preact](https://github.com/Rusta/gatsby-starter-barebones-preact) ([Demo](https://rusta.github.io/gatsby-starter-barebones-preact/))
 * [Undefined](https://github.com/kentaro-m/gatsby-starter-undefined) ([Demo](https://undefined.netlify.com/))
@@ -48,6 +43,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Material Blog Starter](https://github.com/Vagr9K/gatsby-material-starter) ([Demo](https://vagr9k.github.io/gatsby-material-starter/))
 
 ### Videos
+
 * [Scott Nonnenberg](https://twitter.com/scottnonnenberg) presents on Gatsby to the Seattle React.js Meetup https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/
 * [Kyle Mathews](https://twitter.com/kylemathews) gave a lightning talk @ the 2016 React.js Conference on Gatsby https://www.youtube.com/watch?v=RFkNRKL6ZoE
 * [Kyle Mathews](https://twitter.com/kylemathews) spoke on Gatsby to the San Francisco Static Web Tech meetup http://www.staticwebtech.com/presentations/developing-with-react-gatsbyjs/
@@ -57,15 +53,25 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Michael Cereda's multi-part series of blog posts on building his site with Gatsby](https://medium.com/@michaelcereda/creating-an-isomorphic-universal-website-with-react-part-1-a905350acba8#.akoo25l6j)
 * [Talk on GatsbyJS @ ViennaJS](https://www.youtube.com/watch?v=f0O1nCgqA3E&feature=youtu.be&a)
 
-### Talks
+### Tutorials
 
-
-### Articles and Tutorials
-
-### Communities
+* [Official Gatsby Tutorials](https://www.gatsbyjs.org/tutorial/)
+* [Level Up Tutorials - Gatting Started with Gatsby](https://youtu.be/b2H7fWhQcdE)
+* [A Step-by-Step Guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)
+* [Girraffe Academy - Gatsby - Static Site Generator](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMXuwazIt4mWtTuqOHdjRlk)
+* [Egghead - Build a Blog with React and Markdown using Gatsby](https://egghead.io/courses/build-a-blog-with-react-and-markdown-using-gatsby)
+* [Building a Photo Site With GatsbyJS and the WordPress.com API](https://jeremey.blog/gatsby-photo/)
+* [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
+* [Learn Gatsby.js](https://kalinchernev.github.io/learn-gatsbyjs/)
+* [Practical Gatsby.js](https://blog.scottnonnenberg.com/practical-gatsby-js/)
+* [Gatsby + Apollo + GraphCool + Netlify: The Web’s Promised Land](https://medium.com/@dwalsh.sdlr/gatsby-apollo-graphcool-netlify-the-webs-promised-land-6dd510efbd72)
 
 ### Inspiration
+
+* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase)
+
 #### Sites built with Gatsby (source code included)
+
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog))
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com))
 * [graphene-python.org](http://graphene-python.org/) ([source](https://github.com/graphql-python/graphene/tree/master/docs))
@@ -113,8 +119,8 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/) ([source](https://github.com/michaelrambeau/risingstars2016))
 * [Daniel Reszka blog, code & gallery](http://blog.pixarea.com) ([source](https://github.com/danielres/blog))
 * [meadowlab.io](https://meadowlab.io/)
-* [xpchbill.github.io](https://xpchbill.github.io/)  ([source](https://github.com/xpchbill/xpchbill.github.io))
-* [jaredhanstra.com](http://www.jaredhanstra.com/)  ([source](https://github.com/jhanstra/jh-gatsby))
+* [xpchbill.github.io](https://xpchbill.github.io/) ([source](https://github.com/xpchbill/xpchbill.github.io))
+* [jaredhanstra.com](http://www.jaredhanstra.com/) ([source](https://github.com/jhanstra/jh-gatsby))
 * [BBQ Agency](https://bbq.agency/) ([source](https://github.com/bbq-agency/bbq-agency.github.io))
 * [Coriolan UI - sass mixins pack](https://coriolan-ui.github.io/) ([source](https://github.com/coriolan-ui/coriolan-ui.github.io))
 * [5 minutes of React podcast - in Russian](http://5minreact.ru/) ([source](https://github.com/5minreact/5minreact))
@@ -128,4 +134,4 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Prayash Thapa](http://effulgence.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived all copyright and related or neighboring rights to this work.
