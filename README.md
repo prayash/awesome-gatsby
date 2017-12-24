@@ -4,7 +4,7 @@
 
 Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources. What is Gatsby, you say?
 
-## ⚛️ 📄 🚀 Blazing fast React.js static site generator
+### ⚛️ 📄 🚀 Blazing fast React.js static site generator
 
 _Please read the [contribution guidelines](contributing.md) before contributing._
 
@@ -13,7 +13,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Table of Contents
 
 <ul>
-  <li><a href="#gatsby-starters">Gatsby Starters</a></li>
+  <li><a href="#tools">Tools</a></li>
   <li><a href="#videos">Videos</a></li>
   <li><a href="#talks">Talks</a></li>
   <li><a href="#tutorials">Tutorials</a></li>
@@ -22,34 +22,18 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 <hr>
 
-### Gatsby Starters
+### Tools
 
-* [Default minimal starter](https://github.com/gatsbyjs/gatsby-starter-default) ([Demo](http://gatsbyjs.github.io/gatsby-starter-default/))
-* [Kitchen sink starter](https://github.com/gatsbyjs/gatsby-starter-kitchen-sink) ([Demo](http://gatsbyjs.github.io/gatsby-starter-kitchen-sink/))
-* [Simple blog](https://github.com/gatsbyjs/gatsby-starter-blog) ([Demo](http://gatsbyjs.github.io/gatsby-starter-blog/))
-* [Simple documentation site](https://github.com/gatsbyjs/gatsby-starter-documentation) ([Demo](http://gatsbyjs.github.io/gatsby-starter-documentation/))
-* [Lumen](https://github.com/wpioneer/gatsby-starter-lumen) ([Demo](https://alxshelepenok.github.io/gatsby-starter-lumen/))
-* [DrunkenBlog](https://github.com/konsumer/gatsby-starter-drunkenblog) ([Demo](http://konsumer.js.org/gatsby-starter-drunkenblog/))
-* [Clean start](https://github.com/brianstone/gatsby-starter-clean) ([Demo](http://gatsby-starter-clean.netlify.com/))
-* [Project AMP blog](https://github.com/chiedo/gatsby-amp-starter-blog)
-* [Gatstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) ([Demo](https://jaxx2104.github.io/gatsby-starter-bootstrap/))
-* [Alchemy](https://github.com/bntzio/gatsby-starter-alchemy) ([Demo](https://alchemy.netlify.com/))
-* [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) ([Demo](https://superstylin.netlify.com/))
-* [Multi-Author Blog](https://github.com/emilyaviva/gatsby-starter-blog-multiple-authors) ([Demo](https://emilyaviva.github.io/gatsby-starter-blog-multiple-authors/))
-* [Barebones](https://github.com/Rusta/gatsby-starter-barebones) ([Demo](https://rusta.github.io/gatsby-starter-barebones/))
-* [Barebones with Preact](https://github.com/Rusta/gatsby-starter-barebones-preact) ([Demo](https://rusta.github.io/gatsby-starter-barebones-preact/))
-* [Undefined](https://github.com/kentaro-m/gatsby-starter-undefined) ([Demo](https://undefined.netlify.com/))
-* [Guoliim blog starter](https://github.com/guoliim/guoliim-blog) ([Demo](https://blog.guoli.im/))
-* [Material Blog Starter](https://github.com/Vagr9K/gatsby-material-starter) ([Demo](https://vagr9k.github.io/gatsby-material-starter/))
+* Check out the official [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/) page for an updated list of starter kits!
+* Check out the official [Gatsby Plugins](https://www.gatsbyjs.org/docs/plugins/) page for an updated list of super handy Gatsby plugins.
 
 ### Videos
 
-* [Scott Nonnenberg](https://twitter.com/scottnonnenberg) presents on Gatsby to the Seattle React.js Meetup https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/
-* [Kyle Mathews](https://twitter.com/kylemathews) gave a lightning talk @ the 2016 React.js Conference on Gatsby https://www.youtube.com/watch?v=RFkNRKL6ZoE
-* [Kyle Mathews](https://twitter.com/kylemathews) spoke on Gatsby to the San Francisco Static Web Tech meetup http://www.staticwebtech.com/presentations/developing-with-react-gatsbyjs/
+* [Static Site Generation with Gatsby.js](https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/)
+* [React.js Conf 2016 - Lightning Talks - Kyle Matthews](https://www.youtube.com/watch?v=RFkNRKL6ZoE)
+* [Developing with React and Gatsby.js](http://www.staticwebtech.com/presentations/developing-with-react-gatsbyjs/)
+* [GraphQL Summit Open Source Lightning Talk: Gatsby](https://youtu.be/y588qNiCZZo)
 * [ReactJS E-Commerce With No Backend Using Snipcart & Gatsby](https://snipcart.com/blog/snipcart-reactjs-static-ecommerce-gatsby)
-* [A step-by-step guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify)
-* [Hosting GatsbyJS – A React Static Site Generator](https://www.aerobatic.com/blog/gatsbyjs)
 * [Michael Cereda's multi-part series of blog posts on building his site with Gatsby](https://medium.com/@michaelcereda/creating-an-isomorphic-universal-website-with-react-part-1-a905350acba8#.akoo25l6j)
 * [Talk on GatsbyJS @ ViennaJS](https://www.youtube.com/watch?v=f0O1nCgqA3E&feature=youtu.be&a)
 
@@ -59,17 +43,29 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Level Up Tutorials - Gatting Started with Gatsby](https://youtu.be/b2H7fWhQcdE)
 * [A Step-by-Step Guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)
 * [Girraffe Academy - Gatsby - Static Site Generator](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMXuwazIt4mWtTuqOHdjRlk)
+* [Gatsby – Static Site Generator For React](https://codingthesmartway.com/gatsby-static-site-generater-for-react-introduction/)
 * [Egghead - Build a Blog with React and Markdown using Gatsby](https://egghead.io/courses/build-a-blog-with-react-and-markdown-using-gatsby)
+* [A step-by-step guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify)
 * [Building a Photo Site With GatsbyJS and the WordPress.com API](https://jeremey.blog/gatsby-photo/)
 * [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
 * [Learn Gatsby.js](https://kalinchernev.github.io/learn-gatsbyjs/)
 * [Practical Gatsby.js](https://blog.scottnonnenberg.com/practical-gatsby-js/)
 * [Gatsby + Apollo + GraphCool + Netlify: The Web’s Promised Land](https://medium.com/@dwalsh.sdlr/gatsby-apollo-graphcool-netlify-the-webs-promised-land-6dd510efbd72)
+* [Creating A Blog With GatsbyJS - Part One](http://blog.alexmlewis.com/creating-a-blog-with-gatsbyjs-part-one/)
+* [Creating A Blog With GatsbyJS - Part Two](http://blog.alexmlewis.com/creating-a-blog-with-gatsbyjs-part-two/)
+* [Gatsby on AWS Lambda](https://gist.github.com/digitalkaoz/94933c246ba67032a1507083e2605a30)
+* [Getting Started With Gatsbyjs - Live Coding](https://www.youtube.com/watch?v=nufLF1kcn_4&feature=youtu.be)
+* [Improving Gatsby Blog Deploy UX](https://benmccormick.org/2017/11/07/blog-deploy-ux/)
 
 ### Inspiration
 
 * [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase)
+* [Taking Gatsby for a spin](https://dev.to/ardennl/taking-gatsby-for-a-spin-4je)
+* [Why I created my blog with Gatsby and Contentful](https://www.gatsbyjs.org/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/)
 * [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
+* [Blogging with Gatsby](http://blog.jbrisbin.com/blogging-with-gatsby/)
+* [Gatsby & GraphCMS, Sittin in a Recursive Tree](https://graphcms.com/blog/gatsby-graphcms-plugin/)
+* [JamStack Podcasr - Static Site Generation With Gatsby.js](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-22-static-site-generation-with-gatsbyjs/)
 
 #### Sites built with Gatsby (source code included)
 
