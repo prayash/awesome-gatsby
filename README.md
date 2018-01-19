@@ -130,6 +130,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [storybooks.js.org](https://storybooks.js.org) ([source](https://github.com/storybooks/storybooks.github.io/))
 * [effulgence.io](http://effulgence.io) ([source](https://github.com/prayasht/prayasht.github.io/tree/develop/v3))
 * [krzysztofzuraw.com](https://krzysztofzuraw.com) ([source](https://github.com/krzysztofzuraw/blog))
+* [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site))
 
 ## License
 
