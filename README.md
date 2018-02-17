@@ -67,6 +67,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Gatsby & GraphCMS, Sittin in a Recursive Tree](https://graphcms.com/blog/gatsby-graphcms-plugin/)
 * [JamStack Podcasr - Static Site Generation With Gatsby.js](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-22-static-site-generation-with-gatsbyjs/)
 
+#### Themes
+* [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
+
 #### Sites built with Gatsby (source code included)
 
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog))
