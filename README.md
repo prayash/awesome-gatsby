@@ -56,6 +56,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Gatsby on AWS Lambda](https://gist.github.com/digitalkaoz/94933c246ba67032a1507083e2605a30)
 * [Getting Started With Gatsbyjs - Live Coding](https://www.youtube.com/watch?v=nufLF1kcn_4&feature=youtu.be)
 * [Improving Gatsby Blog Deploy UX](https://benmccormick.org/2017/11/07/blog-deploy-ux/)
+* [Add a chat widget to your Gatsby blog](https://pusher.com/tutorials/chat-gatsby/)
 
 ### Inspiration
 
