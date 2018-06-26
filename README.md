@@ -134,6 +134,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site))
 * [Bottenderjs](https://bottender.js.org/) ([source](https://github.com/bottenderjs/bottenderjs.github.io))
 * [Ontheplane2018](https://ontheplane.futbol/)
+* [Vojtech Ruzicka's Programming Blog](https://www.vojtechruzicka.com/) ([source](https://github.com/vojtechruz/vojtechruzicka-blog))
 
 
 ## License
