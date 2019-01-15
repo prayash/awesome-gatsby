@@ -45,7 +45,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Girraffe Academy - Gatsby - Static Site Generator](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMXuwazIt4mWtTuqOHdjRlk)
 * [Gatsby – Static Site Generator For React](https://codingthesmartway.com/gatsby-static-site-generater-for-react-introduction/)
 * [Egghead - Build a Blog with React and Markdown using Gatsby](https://egghead.io/courses/build-a-blog-with-react-and-markdown-using-gatsby)
-* [A step-by-step guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify)
 * [Building a Photo Site With GatsbyJS and the WordPress.com API](https://jeremey.blog/gatsby-photo/)
 * [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
 * [Learn Gatsby.js](https://kalinchernev.github.io/learn-gatsbyjs/)
