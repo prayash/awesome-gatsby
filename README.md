@@ -126,6 +126,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Bottenderjs](https://bottender.js.org/) ([source](https://github.com/bottenderjs/bottenderjs.github.io))
 * [Ontheplane2018](https://ontheplane.futbol/)
 * [Vojtech Ruzicka's Programming Blog](https://www.vojtechruzicka.com/) ([source](https://github.com/vojtechruz/vojtechruzicka-blog))
+* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack))
 
 
 ## License
