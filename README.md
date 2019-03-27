@@ -127,6 +127,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Ontheplane2018](https://ontheplane.futbol/)
 * [Vojtech Ruzicka's Programming Blog](https://www.vojtechruzicka.com/) ([source](https://github.com/vojtechruz/vojtechruzicka-blog))
 * [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack))
+* [Resturant Journeys](https://www.restaurantjourneys.com) ([source](https://github.com/realfresh/restaurantjourneys))
 
 
 ## License
