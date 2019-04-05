@@ -72,6 +72,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 #### Sites built with Gatsby (source code included)
 
+* [elgentos.nl](https://elgentos.nl) ([source](https://github.com/elgentos/gatsby-site))
+* [uitgeverijpluim.nl](https://uitgeverijpluim.nl)
+* [p16r.nl](https://p16r.nl)
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog))
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com))
 * [graphene-python.org](http://graphene-python.org/) ([source](https://github.com/graphql-python/graphene/tree/master/docs))
