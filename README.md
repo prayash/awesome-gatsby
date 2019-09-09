@@ -132,7 +132,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack))
 * [Resturant Journeys](https://www.restaurantjourneys.com) ([source](https://github.com/realfresh/restaurantjourneys))
 * [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net))
-
+* [reacthooks.dev](https://reacthooks.dev) ([source](https://github.com/lexioplatform/react-hooks-blog))
 
 ## License
 
