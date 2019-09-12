@@ -69,6 +69,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 #### Themes
 * [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
+* [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
 
 #### Sites built with Gatsby (source code included)
 
