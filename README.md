@@ -138,6 +138,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Resturant Journeys](https://www.restaurantjourneys.com) ([source](https://github.com/realfresh/restaurantjourneys))
 * [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net))
 * [reacthooks.dev](https://reacthooks.dev) ([source](https://github.com/lexioplatform/react-hooks-blog))
+* [Divyanshu Maithani](https://divyanshu013.dev) ([source](https://github.com/divyanshu013/blog))
 
 ## License
 
