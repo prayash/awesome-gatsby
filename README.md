@@ -14,6 +14,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 <ul>
   <li><a href="#tools">Tools</a></li>
+  <li><a href="#ides">IDEs</a></li>
   <li><a href="#videos">Videos</a></li>
   <li><a href="#talks">Talks</a></li>
   <li><a href="#tutorials">Tutorials</a></li>
@@ -26,6 +27,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 * Check out the official [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/) page for an updated list of starter kits!
 * Check out the official [Gatsby Plugins](https://www.gatsbyjs.org/docs/plugins/) page for an updated list of super handy Gatsby plugins.
+
+### IDEs
+
+* [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+  * [VSCode Extension silvenon.mdx which provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx)
+  * [VSCode Extension dbaeumer.vscode-eslint for ESLint integration](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  * [VSCode Extension nickytonline.vscode-gatsby-snippets providing snippets for GatsbyJS](https://marketplace.visualstudio.com/items?itemName=nickytonline.vscode-gatsby-snippets)
 
 ### Videos
 
