@@ -77,9 +77,15 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [JamStack Podcasr - Static Site Generation With Gatsby.js](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-22-static-site-generation-with-gatsbyjs/)
 
 #### Themes
+
 * [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
 * [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
 * [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
+* [Apollo](https://github.com/apollographql/gatsby-theme-apollo)
+* [Byfolio](https://github.com/christiandavid/gatsby-theme-byfolio)
+* [Carbon](https://github.com/carbon-design-system/gatsby-theme-carbon)
+* [Novela](https://github.com/narative/gatsby-theme-novela)
+* [Serif](https://github.com/JugglerX/gatsby-serif-theme)
 
 #### Sites built with Gatsby (source code included)
 
