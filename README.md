@@ -77,6 +77,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [JamStack Podcasr - Static Site Generation With Gatsby.js](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-22-static-site-generation-with-gatsbyjs/)
 
 #### Themes
+* [arshad's themes: Flex, Phoenix](https://github.com/arshad/gatsby-themes)
 * [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
 * [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
 * [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
