@@ -80,6 +80,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
 * [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
 * [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
+* [Themes by LekoArts](https://github.com/LekoArts/gatsby-themes)
 
 #### Sites built with Gatsby (source code included)
 
