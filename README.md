@@ -100,6 +100,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
 - [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
 - [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
+- [AntV](https://github.com/antvis/gatsby-theme-antv)
+- [arshad's themes: Flex, Phoenix](https://github.com/arshad/gatsby-themes)
+- [Tabor](https://github.com/zgordon/tabor-gatsby-theme)
 
 #### Sites built with Gatsby (source code included)
 
