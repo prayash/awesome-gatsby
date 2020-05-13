@@ -96,6 +96,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
 - [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
 - [Legal Prismic](https://github.com/littleplusbig/gatsby-theme-legals-prismic)
+- [Documentation](https://github.com/johno/gatsby-theme-documentation)
+- [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
+- [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
+- [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
 
 #### Sites built with Gatsby (source code included)
 
