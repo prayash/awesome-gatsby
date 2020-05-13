@@ -88,6 +88,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Novela](https://github.com/narative/gatsby-theme-novela)
 - [Serif](https://github.com/JugglerX/gatsby-serif-theme)
 - [Themes by LekoArts](https://github.com/LekoArts/gatsby-themes)
+- [Jason's Blog](https://github.com/jlengstorf/gatsby-theme-jason-blog)
+- [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
+- [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
+- [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
 
 #### Sites built with Gatsby (source code included)
 
