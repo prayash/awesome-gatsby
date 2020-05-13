@@ -86,11 +86,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Carbon](https://github.com/carbon-design-system/gatsby-theme-carbon)
 * [Novela](https://github.com/narative/gatsby-theme-novela)
 * [Serif](https://github.com/JugglerX/gatsby-serif-theme)
+* [Themes by LekoArts](https://github.com/LekoArts/gatsby-themes)
 
 #### Sites built with Gatsby (source code included)
 
 * [jamtemplates.com](https://jamtemplates.com)
-* [gregberge.com](https://gregberge.com)
+* [gregberge.com](https://gregberge.com) ([source](https://github.com/gregberge/gregberge.com))
 * [elgentos.nl](https://elgentos.nl) ([source](https://github.com/elgentos/gatsby-site))
 * [uitgeverijpluim.nl](https://uitgeverijpluim.nl)
 * [p16r.nl](https://p16r.nl)
