@@ -67,6 +67,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Add a chat widget to your Gatsby blog](https://pusher.com/tutorials/chat-gatsby/)
 - [Start a new website with Gatsby, Prismic CMS & Netlify](https://medium.com/source-group/start-a-new-website-with-gatsby-prismic-cms-netlify-a875455c992)
 - [Blogging with Gatsby & MDX](https://reacttraining.com/blog/gatsby-mdx-blog/)
+- [Blogging with Jamify (Gatsby + Ghost CMS)](https://www.jamify.org/)
 
 ### Inspiration
 
@@ -108,6 +109,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [WordPress Libre Theme](https://github.com/draftbox-co/gatsby-wordpress-theme-libre)
 - [Ghost Attila Theme](https://github.com/draftbox-co/gatsby-attila-theme-ghost)
 - [Ghost Balsa Theme](https://github.com/draftbox-co/gatsby-ghost-balsa-theme)
+- [Jamify Theme: Flaring fast blogs with Gatsby and Ghost](https://github.com/styxlab/gatsby-theme-try-ghost)
 
 #### Sites built with Gatsby (source code included)
 
