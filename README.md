@@ -101,6 +101,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Ghost Attila Theme](https://github.com/draftbox-co/gatsby-attila-theme-ghost)
 - [Ghost Balsa Theme](https://github.com/draftbox-co/gatsby-ghost-balsa-theme)
 - [Jamify Theme: Flaring fast blogs with Gatsby and Ghost](https://github.com/styxlab/gatsby-theme-try-ghost)
+- [vHealth: Gatsby template for a healthcare startup.](https://github.com/shantanu-deshmukh/vhealth-gatsby)
 
 #### Sites built with Gatsby (source code included)
 
