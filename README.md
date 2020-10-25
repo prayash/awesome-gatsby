@@ -102,6 +102,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Ghost Balsa Theme](https://github.com/draftbox-co/gatsby-ghost-balsa-theme)
 - [Jamify Theme: Flaring fast blogs with Gatsby and Ghost](https://github.com/styxlab/gatsby-theme-try-ghost)
 - [vHealth: Gatsby template for a healthcare startup.](https://github.com/shantanu-deshmukh/vhealth-gatsby)
+- [FlexiBlog: Premium GatsbyJS multi-purpose blog theme](https://themeforest.net/item/flexiblog-react-gatsby-blog-template/27538998)
 
 #### Sites built with Gatsby (source code included)
 
