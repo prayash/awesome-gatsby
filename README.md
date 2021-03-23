@@ -103,6 +103,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Jamify Theme: Flaring fast blogs with Gatsby and Ghost](https://github.com/styxlab/gatsby-theme-try-ghost)
 - [vHealth: Gatsby template for a healthcare startup.](https://github.com/shantanu-deshmukh/vhealth-gatsby)
 - [FlexiBlog: Premium GatsbyJS multi-purpose blog theme](https://themeforest.net/item/flexiblog-react-gatsby-blog-template/27538998)
+- [Minimal Portfolio Theme by brianruizy](https://github.com/BrianRuizy/gatsby-minimal-portfolio)
 
 #### Sites built with Gatsby (source code included)
 
