@@ -29,7 +29,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - Check out the official [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/) page for an updated list of starter kits!
 - Check out the official [Gatsby Plugins](https://www.gatsbyjs.org/docs/plugins/) page for an updated list of super handy Gatsby plugins.
-- [Gatsby starter capacitor](https://github.com/flogy/gatsby-starter-capacitor) - Build blazing fast mobile apps with Gatsby and Capacitor.
 
 ### Plugins
 
