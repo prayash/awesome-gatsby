@@ -1,6 +1,6 @@
 # Awesome Gatsby [![Awesome](img/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Awesome Gatsby](img/banner.jpg "Awesome Gatsby")
+![Awesome Gatsby](img/banner.jpg 'Awesome Gatsby')
 
 Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources. What is Gatsby, you say?
 
@@ -29,7 +29,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - Check out the official [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/) page for an updated list of starter kits!
 - Check out the official [Gatsby Plugins](https://www.gatsbyjs.org/docs/plugins/) page for an updated list of super handy Gatsby plugins.
-- [Gatsby starter capacitor](https://github.com/flogy/gatsby-starter-capacitor) - Build blazing fast mobile apps with Gatsby and Capacitor.
 
 ### Plugins
 
@@ -74,7 +73,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Start a new website with Gatsby, Prismic CMS & Netlify](https://medium.com/source-group/start-a-new-website-with-gatsby-prismic-cms-netlify-a875455c992)
 - [Blogging with Gatsby & MDX](https://reacttraining.com/blog/gatsby-mdx-blog/)
 - [Blogging with Jamify (Gatsby + Ghost CMS)](https://www.jamify.org/)
-- [Build blazing fast mobile apps with Gatsby and Capacitor](https://react-freelancer.ch/blog/build-mobile-apps-using-gatsby-and-capacitor)
 
 ### Inspiration
 
