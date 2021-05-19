@@ -32,7 +32,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Plugins
 
-- [Gatsby mdx tts](https://github.com/flogy/gatsby-mdx-tts) - Easy text-to-speech for your Gatsby site, powered by Amazon Polly.
+- [Gatsby mdx tts](https://github.com/flogy/gatsby-mdx-tts) - Adds speech output to your Gatsby site using Amazon Polly.
 
 ### IDEs
 
