@@ -14,6 +14,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 <ul>
   <li><a href="#tools">Tools</a></li>
+  <li><a href="#plugins">Plugins</a></li>
   <li><a href="#ides">IDEs</a></li>
   <li><a href="#videos">Videos</a></li>
   <li><a href="#talks">Talks</a></li>
@@ -28,6 +29,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - Check out the official [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/) page for an updated list of starter kits!
 - Check out the official [Gatsby Plugins](https://www.gatsbyjs.org/docs/plugins/) page for an updated list of super handy Gatsby plugins.
+
+### Plugins
+
+- [Gatsby MDX TTS](https://github.com/flogy/gatsby-mdx-tts) - Adds speech output to your Gatsby site using Amazon Polly.
 
 ### IDEs
 
