@@ -14,6 +14,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 <ul>
   <li><a href="#tools">Tools</a></li>
+  <li><a href="#plugins">Plugins</a></li>
   <li><a href="#ides">IDEs</a></li>
   <li><a href="#videos">Videos</a></li>
   <li><a href="#talks">Talks</a></li>
