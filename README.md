@@ -68,6 +68,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Start a new website with Gatsby, Prismic CMS & Netlify](https://medium.com/source-group/start-a-new-website-with-gatsby-prismic-cms-netlify-a875455c992)
 - [Blogging with Gatsby & MDX](https://reacttraining.com/blog/gatsby-mdx-blog/)
 - [Blogging with Jamify (Gatsby + Ghost CMS)](https://www.jamify.org/)
+- [Image Processing in Gatsby](https://www.useanvil.com/blog/engineering/gatsby-image-processing/)
 
 ### Inspiration
 
