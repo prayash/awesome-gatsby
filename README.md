@@ -1,6 +1,6 @@
 # Awesome Gatsby [![Awesome](img/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Awesome Gatsby](img/banner.jpg 'Awesome Gatsby')
+![Awesome Gatsby](img/banner.jpg "Awesome Gatsby")
 
 Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources. What is Gatsby, you say?
 
@@ -173,6 +173,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [reacthooks.dev](https://reacthooks.dev) ([source](https://github.com/lexioplatform/react-hooks-blog))
 - [Divyanshu Maithani](https://divyanshu013.dev) ([source](https://github.com/divyanshu013/blog))
 - [Nyxo](https://nyxo.app) ([source](https://github.com/hello-nyxo/nyxo-website))
+- [Walter Teng](https://walterteng.com/) ([source](https://github.com/davzoku/personal-website-v1))
 
 ### No-Code Platform
 
