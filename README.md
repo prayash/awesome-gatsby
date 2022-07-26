@@ -1,6 +1,6 @@
 # Awesome Gatsby [![Awesome](img/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Awesome Gatsby](img/banner.jpg "Awesome Gatsby")
+![Awesome Gatsby](img/banner.jpg 'Awesome Gatsby')
 
 Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources. What is Gatsby, you say?
 
