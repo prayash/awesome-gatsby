@@ -85,6 +85,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [JamTemplates: free templates for Gatsby](https://jamtemplates.com)
 - [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
 - [Gatsby Templates: some more themes for GatsbyJS](https://gatsbytemplates.io)
+- [Statichunt](https://statichunt.com/gatsby-themes)
 - [Apollo](https://github.com/apollographql/gatsby-theme-apollo)
 - [Byfolio](https://github.com/christiandavid/gatsby-theme-byfolio)
 - [Carbon](https://github.com/carbon-design-system/gatsby-theme-carbon)
