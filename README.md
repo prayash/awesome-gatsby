@@ -69,6 +69,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Blogging with Gatsby & MDX](https://reacttraining.com/blog/gatsby-mdx-blog/)
 - [Blogging with Jamify (Gatsby + Ghost CMS)](https://www.jamify.org/)
 - [Image Processing in Gatsby](https://www.useanvil.com/blog/engineering/gatsby-image-processing/)
+- [Learn how to install Gatsby with Tailwind CSS and Flowbite](https://flowbite.com/docs/getting-started/gatsby/)
 
 ### Inspiration
 
